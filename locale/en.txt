@@ -1,0 +1,76 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Y11 GCSE Visual Arts Gallery
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_14506DDE_1E43_0BF3_4175_374D5CB0EE90.label = Soad
+panorama_14507362_1E43_38D2_41A8_5C3BDF4BB403.label = Y8 Archtecture
+panorama_14518992_1E43_0873_4183_9EC8C9819718.label = Angelina
+panorama_14526400_1E43_184F_41B6_59C918D6F1B8.label = Soujoud
+panorama_1469F827_1E47_0851_41AC_B16A2202CFCC.label = Muni
+panorama_146A4A8E_1E41_0853_4187_338F7A1E4A41.label = Farida
+panorama_146A4CF8_1E47_09BF_41AF_AB3846D18150.label = Lara 2
+panorama_146A7502_1E47_F852_41A0_A18BBD76A552.label = Sedra & Laura
+panorama_146A77CF_1E47_07D2_41A5_15C743CDA119.label = Malak
+panorama_146A8FBB_1E47_07B1_41B2_1F3F02166826.label = Jeremiha
+panorama_146AC4CC_1E41_19D6_417D_2E6D81C30064.label = Lily & Gabrielle
+panorama_146AEA21_1E47_084E_41B7_661A08CE9111.label = Lara 1
+panorama_146AF6A4_1E47_3857_41B3_2FD697FA9318.label = Ignassi & Salma
+panorama_146B32D0_1E41_19CF_41AB_52226F5D0938.label = Sama
+panorama_146B94C9_1E41_19D1_4198_D77F67C5FD5C.label = Entrance
+panorama_146BE471_1E41_18CE_41A9_680A950F0ABF.label = Jana
+panorama_146BE7B0_1E41_184E_41AF_257B62D64727.label = Ranad
+panorama_14B19103_1E41_3852_417E_A19FE87D45B1.label = Ruben
+panorama_14BD7C51_1E43_08CE_41BB_14726A65BF2A.label = Aarya
+panorama_3CB53660_2018_205F_41B8_58FEAD93C414.label = Y7 portraits
+video_0945057C_25B8_FEF6_41B0_7CCFA237BE47.label = Jeremiha
+video_0AB45454_2588_DE36_41BB_BBC8E80A0EE5.label = Ruben collated_1
+
+## Hotspot
+
+### Tooltip
+FlatHotspotPanoramaOverlayArea_02910508_238B_5E1E_41BE_FFAAAFAFA95A.toolTip = jeremiah William
+FlatHotspotPanoramaOverlayArea_035A34F7_2389_3FF2_41B1_AB5A5310ED0B.toolTip = Lily Ouf & Gabreielle Stien
+FlatHotspotPanoramaOverlayArea_036E1607_2389_DA12_418D_F68F541AD220.toolTip = Jana Abuseif
+FlatHotspotPanoramaOverlayArea_03B10511_238F_3E0F_41B5_B5901610126C.toolTip = Soad Ageel
+FlatHotspotPanoramaOverlayArea_07F37B48_2379_CA1E_41C0_D6FB438AF769.toolTip = Sama El Akhtal
+FlatHotspotPanoramaOverlayArea_0ED7A216_2587_3A35_41A6_68994B7D068A.toolTip = Ruben Arena
+FlatHotspotPanoramaOverlayArea_259370B8_297F_D1D2_41B1_A550AA1A1576.toolTip = Lily Ouf & Gabreielle Stien
+FlatHotspotPanoramaOverlayArea_27144309_2890_339E_41C2_4180E29ED7AB.toolTip = Lily Ouf & Gabreielle Stien
+FlatHotspotPanoramaOverlayArea_273F1263_2890_CD92_41A9_56FB42D767F9.toolTip = Malak Mamdouh
+FlatHotspotPanoramaOverlayArea_27457D56_2890_37B2_4155_9847C02998AC.toolTip = Malak Mamdouh
+FlatHotspotPanoramaOverlayArea_2CE17F7C_2399_CAF6_41B3_0FC1FC71ED83.toolTip = Farida Hegazy
+FlatHotspotPanoramaOverlayArea_30CFA7DB_2399_FA33_4196_4CF5958F7323.toolTip = Sojoud El Sager & May Deabes
+FlatHotspotPanoramaOverlayArea_31965335_238F_5A76_41B5_8F768A2F878A.toolTip = Ranad Benaghil
+FlatHotspotPanoramaOverlayArea_31A79421_238B_DE0E_41AB_83C079A6E5EF.toolTip = Sama El Akhtal
+FlatHotspotPanoramaOverlayArea_3238709E_23BF_D635_41BD_F4B50A0DBFE3.toolTip = Ruben Arena
+FlatHotspotPanoramaOverlayArea_34DB55E9_2389_3E1E_41B0_D6B0AF8319B9.toolTip = Lily Ouf & Gabreielle Stien
+FlatHotspotPanoramaOverlayArea_350076EB_2389_5A12_41AF_5800C23DA733.toolTip = Soad Ageel
+FlatHotspotPanoramaOverlayArea_36AC5D13_23F9_CE32_41BB_2CB572F3F615.toolTip = Angelina Simonian
+FlatHotspotPanoramaOverlayArea_380F87C2_2890_5292_41BF_66BFDBD85212.toolTip = Malak Mamdouh
+FlatHotspotPanoramaOverlayArea_38AAA4E5_2890_5696_41C0_9318C33FA830.toolTip = Malak Mamdouh
+FlatHotspotPanoramaOverlayArea_38B19AA6_2891_D292_41BA_BD6D54F4E2F1.toolTip = Malak Mamdouh
+FlatHotspotPanoramaOverlayArea_38EBA9BD_2890_5EF6_41C2_1748BCC0B8A1.toolTip = Malak Mamdouh
+FlatHotspotPanoramaOverlayArea_3BBA17DD_2389_3A36_41C0_F1CF07B7A61C.toolTip = Malak Mamdouh
+FlatHotspotPanoramaOverlayArea_3C3EF959_238B_363F_41A2_BFFD8DCF40C9.toolTip = Malak Mamdouh
+FlatHotspotPanoramaOverlayArea_3CC273BE_2387_3A72_41B6_9C3B1280282B.toolTip = Lily Ouf & Gabreielle Stien
+FlatHotspotPanoramaOverlayArea_3D300132_2399_3672_41BE_478FA52E51AD.toolTip = Sama El Akhtal
+FlatHotspotPanoramaOverlayArea_3D62F673_2399_3AF2_41BA_172A8C5D7C37.toolTip = Ruben Arena
+FlatHotspotPanoramaOverlayArea_3DE1BB29_239B_CA1F_41C0_21EC1EB9A7C7.toolTip = Farida Hegazy
+FlatHotspotPanoramaOverlayArea_3E378B0B_2398_CA12_41B2_994F69042A41.toolTip = Farida Hegazy
+FlatHotspotPanoramaOverlayArea_3E401A4C_2398_CA16_41BD_A474F0C5D81B.toolTip = Malak Mamdouh
+FlatHotspotPanoramaOverlayArea_3E7212CD_2389_7A17_418E_7F60AA4CBDDD.toolTip = jeremiah William
+FlatHotspotPanoramaOverlayArea_3F91123C_23B9_5A75_41B5_10856F57424E.toolTip = Jana Abuseif
