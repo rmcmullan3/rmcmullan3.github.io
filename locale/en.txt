@@ -37,6 +37,7 @@ panorama_14B19103_1E41_3852_417E_A19FE87D45B1.label = Ruben
 panorama_14BD7C51_1E43_08CE_41BB_14726A65BF2A.label = Aarya
 panorama_3CB53660_2018_205F_41B8_58FEAD93C414.label = Y7 portraits
 video_0AB45454_2588_DE36_41BB_BBC8E80A0EE5.label = Ruben collated_1
+video_20638F26_2DC6_B619_41AE_74AA74ED9CA1.label = Sequence swapped_1
 
 ## Hotspot
 
