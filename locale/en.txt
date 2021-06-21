@@ -37,6 +37,7 @@ panorama_14B19103_1E41_3852_417E_A19FE87D45B1.label = Ruben
 panorama_14BD7C51_1E43_08CE_41BB_14726A65BF2A.label = Aarya
 panorama_3CB53660_2018_205F_41B8_58FEAD93C414.label = Y7 portraits
 video_0AB45454_2588_DE36_41BB_BBC8E80A0EE5.label = Ruben collated_1
+video_20280E7A_2EBA_2C23_41B3_A3D040778E4B.label = Jeremiha
 video_20638F26_2DC6_B619_41AE_74AA74ED9CA1.label = Sequence swapped_1
 
 ## Hotspot
@@ -48,7 +49,6 @@ FlatHotspotPanoramaOverlayArea_036E1607_2389_DA12_418D_F68F541AD220.toolTip = Ja
 FlatHotspotPanoramaOverlayArea_03B10511_238F_3E0F_41B5_B5901610126C.toolTip = Soad Ageel
 FlatHotspotPanoramaOverlayArea_07F37B48_2379_CA1E_41C0_D6FB438AF769.toolTip = Sama El Akhtal
 FlatHotspotPanoramaOverlayArea_0ED7A216_2587_3A35_41A6_68994B7D068A.toolTip = Ruben Arena
-FlatHotspotPanoramaOverlayArea_259370B8_297F_D1D2_41B1_A550AA1A1576.toolTip = Lily Ouf & Gabreielle Stien
 FlatHotspotPanoramaOverlayArea_27144309_2890_339E_41C2_4180E29ED7AB.toolTip = Lily Ouf & Gabreielle Stien
 FlatHotspotPanoramaOverlayArea_273F1263_2890_CD92_41A9_56FB42D767F9.toolTip = Malak Mamdouh
 FlatHotspotPanoramaOverlayArea_27457D56_2890_37B2_4155_9847C02998AC.toolTip = Malak Mamdouh
