@@ -1,4 +1,8 @@
 {
+ "name": "Y11 GCSE Visual Arts Gallery",
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Y11 GCSE Visual Arts Gallery",
- "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "start_url": "index.htm",
- "background_color": "#FFFFFF"
+ "display": "fullscreen"
 }
